@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 import datetime
 
 import isodate
